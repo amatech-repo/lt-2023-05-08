@@ -27,3 +27,4 @@ cd lt-2023-05-08
 - github pagesを使用する 
 
 https://pengi-n.co.jp/blog/git-githubpages/
+# my-site
